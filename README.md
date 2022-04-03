@@ -1,3 +1,6 @@
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # <div id="top">TurtleRace</div>
 
 This project was a hobby project. I wanted to make a simple program when we started out programming in python to get more familiar with it.
