@@ -19,7 +19,7 @@ When you start the program, four turtles will be created, and they will race til
 
 ### Installing
 
-* Download the program with this command through <b>gitBash</b>:
+* Download the program with this command through <b>Git Bash</b>:
 ```
 git clone https://github.com/vastamaa/TurtleRace
 ```
